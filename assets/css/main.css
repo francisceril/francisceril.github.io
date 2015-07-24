@@ -420,6 +420,9 @@ body {
     .page-home article:last-child {
       margin-bottom: 0px; }
 
+body {
+  margin: 0;
+}
 
 .main-header {
   background: url(../img/header-bg.jpg) no-repeat;
