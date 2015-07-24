@@ -422,7 +422,7 @@ body {
 
 
 .main-header {
-  background: url(assets/img/header-bg.jpg) no-repeat;
+  background: url(../img/header-bg.jpg) no-repeat;
   background-size: cover;
   height: 100vh;
 }
