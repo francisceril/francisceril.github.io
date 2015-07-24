@@ -419,3 +419,10 @@ body {
     margin-bottom: 50px; }
     .page-home article:last-child {
       margin-bottom: 0px; }
+
+
+.main-header {
+  background: url(assets/img/header-bg.jpg) no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
