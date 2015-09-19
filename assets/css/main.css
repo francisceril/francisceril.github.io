@@ -439,6 +439,7 @@ body {
   margin: 0;
   line-height: 1;
   color: white;
+  z-index: 1000;
 }
 
 
