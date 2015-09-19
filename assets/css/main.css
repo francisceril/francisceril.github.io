@@ -424,16 +424,14 @@ body {
   margin: 0;
 }
 
-.main-header {
-  background: url(../img/header-bg.jpg) no-repeat;
-  background-size: cover;
+.headline {
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.main-header h1 {
+.headline h1 {
   font-family: 'Fira Sans', sans-serif;
   text-align: center;
   padding: 0;
